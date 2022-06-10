@@ -3,7 +3,7 @@ function showFrame() {
   let img = document.createElement("img")
 
   // set the image source
-  img.src = "https://c.tenor.com/aySZa-sUjO0AAAAC/te-parece-que-somos-ricos-lois.gif"
+  img.src = "https://github.com/joshuansu0897/te_parece_que_somos_ricos/blob/main/img/te-parece-que-somos-ricos-lois.gif?raw=true"
 
   // set the delete logic
   img.onclick = function () {
