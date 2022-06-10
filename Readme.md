@@ -12,12 +12,21 @@ Extension de Google que muestra un GIF de Lois de Malcom el del medio diciendo "
 - Abre el navegador y visita una pagina que contenga "Agregar al Carrito"
 - ¡Ya esta!
 
-img 1
+***img 1***
 ![img 1](/doc/img1.png?raw=true "img 1")
-img 2
+***img 2***
 ![img 2](/doc/img2.png?raw=true "img 2")
-img 3
+***img 3***
 ![img 3](/doc/img3.png?raw=true "img 3")
+
+## Configuración
+Nada mas tiene un switch para activar o desactivar el GIF.*`conf.png`*
+
+***conf.png***
+![conf](/doc/conf.png?raw=true "conf")
+
+## Como se ve
+![preview](/doc/preview.png?raw=true "preview")
 
 
 NOTA: sale en todas las paginas que contenga la palabra "**Agregar al Carrito**"
