@@ -1,6 +1,6 @@
 # Te Parece Que Somos Ricos Extension
 
-Extension de Google que muestra un GIF de Lois de Malcom el del medio diciendo "¿Te parece que somos ricos?" cuando estas viendo una pagina que contiene "Agregar al Carrito"
+Extension de Google que muestra un GIF de Lois de Malcom el del medio diciendo "*¿Te parece que somos ricos?*" cuando estas en una pagina que contiene "*Agregar al Carrito*"
 
 ## Instalación
 - Clona el repositorio
@@ -9,7 +9,7 @@ Extension de Google que muestra un GIF de Lois de Malcom el del medio diciendo "
     - habilita el modo de desarrollador (Developer Mode).*`img 1`*
     - haz click en "Load unpacked".*`img 2`*
     - coloca la ruta donde clonaste el repositorio, tienes que estar en la raiz del repositorio.*`img 3`*
-- Abre el navegador y visita una pagina que contenga "Agregar al Carrito"
+- Abre el navegador y visita una pagina que contenga "Agregar al Carrito" (como este readme)
 - ¡Ya esta!
 
 ***img 1***
