@@ -23,6 +23,7 @@ Extension de Google que muestra un GIF de Lois de Malcom el del medio diciendo "
 Nada mas tiene un switch para activar o desactivar el GIF.*`conf.png`*
 
 ***conf.png***
+
 ![conf](/doc/conf.png?raw=true "conf")
 
 ## Como se ve
