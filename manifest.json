@@ -1,0 +1,22 @@
+{
+  "name": "Te parece que somos ricos?",
+  "description": "",
+  "version": "0.0.1",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "js/background.js"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "*://*/"
+  ],
+  "action": {
+    "default_popup": "html/popup.html",
+    "default_title": "Click to Basic Settings"
+  }
+}
